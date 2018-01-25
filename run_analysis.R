@@ -122,5 +122,5 @@ remove(activityLabels,complete,completeProcessed,completeProcessedMelt)
 remove(i,targetCols)
 remove(featureLabels,featureLabelsTransform,subjectTest,subjectTrain,test,train,X_test,X_train,yTest,yTrain)
 # output tidy data file
-write.table(completeProcessedCast, file="tidyData.csv",sep=",", row.name=FALSE)
+write.table(completeProcessedCast, file="tidyData.txt",sep=",", row.name=FALSE)
 
