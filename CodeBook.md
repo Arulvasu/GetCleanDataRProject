@@ -103,6 +103,7 @@ All of the following fields represent the mean of recorded data points for the g
         _ force_BodyGyroJerkMagnitude_standardDeviation    40   numeric  min: -0.994  max: -0.271
              _ force_BodyGyroJerkMagnitude_meanFrequency    40   numeric  min: -0.008  max: 0.332 
 
+
 ### More information
 
 Detailed information on the experiment and the data can be found in the `README.txt` and `features_info.txt` files included in the experiment data [zip file](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) or find more information on the dataset [homepage](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
